@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red{
+    height: 50vh;
+    background: red;
+    width: 40%;
+    border-style: solid;
+    border-width: 0px 10px 10px 0px;
+    border-color: black;
+}
+.white{
+    width: 50%;
+    height: 45vh;
+    border-style: solid;
+    border-width: 10px;
+    margin-left: 39%;
+    border-color: black;
+}
+.yellow{
+    width: 25%;
+    background: yellow;
+    height: 5vh;
+    border-style: solid;
+    margin-left: 39%;
+    border-width: 10px 10px 0px 10px;
+    
+}
+.blue{
+    width: 25%;
+    background: black;
+    height: 5vh;
+    border-style: solid;
+   
+    border-width: 10px 10px 0px 10px;
+   
+}
+.box{
+    display: flex;
+}
+.darkblue{
+    width: 11%;
+    height: 25vh;
+    background-color: darkblue;
+    border-style: solid;
+    border-width: 10px 0px 10px 0px;
+   
+}
+.box1{
+    display: flex;
+}
